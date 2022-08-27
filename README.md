@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabeelahmedpms
-- 👀 I’m interested in Codin
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Github
 - 📫 reach me through E-mail
